@@ -18,7 +18,7 @@ A utility node that allows you to link and toggle multiple groups of nodes simul
 1. Clone this repository into your `ComfyUI/custom_nodes` directory:
 ```bash
 cd custom_nodes
-git clone https://github.com/YourUsername/finetunersTest.git
+git clone https://github.com/FinetunersAI/finetunersTest.git
 ```
 
 2. Restart ComfyUI
