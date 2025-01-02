@@ -28,7 +28,7 @@ class VariablesInjector:
             }
         }
     
-    RETURN_TYPES = ("*",)
+    RETURN_TYPES = ("STRING",)
     RETURN_NAMES = ("text",)
     FUNCTION = "inject"
     CATEGORY = "finetuners"
